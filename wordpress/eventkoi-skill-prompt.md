@@ -1,4 +1,10 @@
-Please save the following as a new skill called "Create events in EventKoi" that is available when working on my WordPress site. My site is set to the following timezone: ________, so that is the center of reference whenever I manually populate an event in the user interface.
+---
+type: "skill"
+for: {"topic": "events", "app": [{"name": "EventKoi plugin", "url": "https://eventkoi.com/"}]} 
+original: "https://eventkoi.com/blog/add-events-to-wordpress-with-chatgpt-or-claude/" 
+---
+
+Please save the following as a new skill called "Create events in EventKoi" that is available when working on my WordPress site. My site is set to the following timezone: ________, so that became the center of reference when I manually populate an event in the user interface.
 
 
 # Create events in EventKoi:
